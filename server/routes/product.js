@@ -104,6 +104,7 @@ router.post('/products', (req, res) => {
 })
 
 
+// 상세 페이지
 //id=123123123,324234234,324234234  type=array
 router.get('/products_by_id', (req, res) => {
 
